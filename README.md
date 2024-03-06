@@ -1,5 +1,2 @@
-# real-time-chat-app
-# chat-app
-# chat-app
-# chat-app
 # firebase-chat-app
+React Native - Firebase- Chat App
