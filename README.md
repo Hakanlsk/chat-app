@@ -1,7 +1,6 @@
 React Native - Firebase- Chat App
 
-## Responsive Tasarım
-Not: Bazı Font Size değerleri figma tasarımına uygunluk açısından ekran boyutuna göre değişiklik göstermek yerine sabit değerler tercih edilmiştir.
+## Screenshots
 <div style="display: flex;">
 <img src="https://github.com/Hakanlsk/firebase-chat-app/assets/123507532/e4ce4516-a608-46ef-a157-ff8e38292a8f" alt="Resim 1" style="width: 30%; margin-right: 20px;">
 <img src="https://github.com/Hakanlsk/firebase-chat-app/assets/123507532/aee497a2-6f52-4477-b2f1-f57ec9337d4d" alt="Resim 1" style="width: 30%; margin-right: 20px;">
