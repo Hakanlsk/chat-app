@@ -1,5 +1,4 @@
 ## PACKAGES
-
     - Redux - Redux Toolkit
     - Tailwind
     - Firebase
