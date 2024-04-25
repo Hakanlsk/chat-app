@@ -18,3 +18,5 @@
 </div>
 
 
+Linkedin post and video:
+https://www.linkedin.com/feed/update/urn:li:activity:7171138143147036672/
