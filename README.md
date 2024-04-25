@@ -15,7 +15,7 @@ Not: Bazı Font Size değerleri figma tasarımına uygunluk açısından ekran b
 </div>
 
 
-## Kullanılan Paketler
+## PACKAGES
 
     - Redux - Redux Toolkit
     - Tailwind
