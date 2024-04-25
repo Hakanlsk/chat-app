@@ -1,4 +1,9 @@
-React Native - Firebase- Chat App
+## PACKAGES
+
+    - Redux - Redux Toolkit
+    - Tailwind
+    - Firebase
+
 
 ## Screenshots
 <div style="display: flex;">
@@ -14,8 +19,3 @@ React Native - Firebase- Chat App
 </div>
 
 
-## PACKAGES
-
-    - Redux - Redux Toolkit
-    - Tailwind
-    - Firebase
