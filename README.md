@@ -1,4 +1,4 @@
-# 🔥 Firebase-Based E-Commerce App - React Native
+# 🔥 Chat App using React Native and Firebase
 
 ## 🔑 Project Features
 The following are the core features of this Firebase-based e-commerce application:
