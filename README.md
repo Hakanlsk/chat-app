@@ -1,6 +1,6 @@
 # 🔥 Chat App using React Native and Firebase
 
-## 🔑 Project Features
+## 🔑 Project Features 
 The following are the core features of this Firebase-based e-commerce application:
 
 - **Firebase Authentication**: Secure sign-up and login using Firebase, providing a streamlined user authentication experience.
