@@ -5,7 +5,6 @@ The following are the core features of this Firebase-based e-commerce applicatio
 
 - **Firebase Authentication**: Secure sign-up and login using Firebase, providing a streamlined user authentication experience.
 - **Firestore Database**: Each user has a dedicated document in Firestore, allowing for secure and personalized data storage.
-- **User Cart Functionality**: Users can add products to their carts, with cart information stored in unique Firestore documents. This enables users to modify their cart contents as needed.
 - **Data Retrieval and Usage**: Fast data retrieval from Firestore, ensuring smooth application performance and personalized user experiences.
 
 To effectively manage the application's state, Redux is integrated into the project, with two key slices:
