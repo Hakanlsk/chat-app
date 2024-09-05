@@ -10,9 +10,6 @@ The following are the core features of this Firebase-based e-commerce applicatio
 
 To effectively manage the application's state, Redux is integrated into the project, with two key slices:
 
-- **CartSlice**: Manages the state related to the user's cart.
-- **ProductSlice**: Handles the state for product information.
-
 ## 🛠️ Technology Stack Used
 The application is built using the following technology stack:
 
